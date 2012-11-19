@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>--input</key>
+	<array>
+		<string>.</string>
+	</array>
+	<key>--project-name</key>
+	<string>TableView With Subsections</string>
+	<key>--project-company</key>
+	<string>Corduroy Enterprises</string>
+	<key>--company-id</key>
+	<string>biz.corduroy</string>
+	<key>--create-docset</key>
+	<true/>
+	<key>--install-docset</key>
+	<true/>
+	<key>--no-repeat-first-par</key>
+	<true/>
+	<key>--verbose</key>
+	<string>xcode</string>
+	<key>--logformat</key>
+	<integer>1</integer>
+	<key>--exit-threshold</key>
+	<integer>2</integer>
+	<key>--output</key>
+	<string>Documentation</string>
+	<key>--docsetutil-path</key>
+	<string>/Applications/-Development/Xcode46-DP1.app/Contents/Developer/usr/bin/docsetutil</string>
+	<key>--create-html</key>
+	<true/>
+	<key>--keep-intermediate-files</key>
+	<true/>
+</dict>
+</plist>
