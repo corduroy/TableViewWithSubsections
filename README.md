@@ -6,4 +6,4 @@ A class to enable UITableViews to support two-levels of heading - Groups and Sub
 Documentation
 =============
 
-See the [Online Documentation](http://htmlpreview.github.com/?https://github.com/corduroy/TableViewWithSubsections/blob/master/Documentation/html/index.html)
+See the [Online Documentation](http://corduroy.github.com/TableViewWithSubsections)
